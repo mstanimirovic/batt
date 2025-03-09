@@ -9,3 +9,21 @@ Batt is a lightweight command-line tool written in Rust that provides detailed i
 - Improve error handling and reporting
 - Add time remaining until full charge
 - Add time remaining until empty
+
+### Output example
+```
+Device: ADP0 Mains
+	online    = 0
+
+Device: BAT0 Battery
+	capacity                      = 24
+	capacity level                = Normal
+	cycle count                   = 501
+	health percentage             = 82.58
+	manufacturer                  = Celxpert
+	model name                    = L20C2PF0
+	power consumption             = 11.14
+	status                        = Discharging
+	technology                    = Li-poly
+	time remaining until empty    = 0.41
+```
