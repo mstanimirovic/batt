@@ -6,9 +6,6 @@ Batt is a lightweight command-line tool written in Rust that provides detailed i
 
 ### Todo
 - Implement a more user-friendly output format
-- Improve error handling and reporting
-- Add time remaining until full charge
-- Add time remaining until empty
 
 ### Output example
 ```
